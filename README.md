@@ -1,6 +1,6 @@
 # arduino-controller-to-p5-game
 A simple P5js game playable with arduino controller
-![arduino game](https://github.com/methio/arduino-controller-to-p5-game/blob/main/img/picture1.jpg "game picture 1")
+![arduino game](https://github.com/methio/arduino-controller-to-p5-game/blob/main/img/picture1.JPG "game picture 1")
 
 ## Technologies used
 
